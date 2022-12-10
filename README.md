@@ -144,19 +144,3 @@ etc up to 10
 Script execution time (in seconds) = 1.5
 ```
 
-
-## Chapter IV
-
-Well, now you've done all the work you wanted to do. You had to stay a little longer than usual, but it was worth it.
-You pack up your stuff and, on your way out of the office, you looked into the room where you heard your colleague earlier.
-
-`-` Hey, may I come in? - you knocked on the door.
-
-`-` Yes... just a second. I didn't think there was anyone else here at this hour.
-
-The door opened and, after a short conversation, you handed the inexperienced sysadmin a flash drive with the scripts.
-You said goodbye and were about to leave when you remembered an important detail.
-
-`-` Oh, I completely forgot to ask. What's your name?
-
-`-` Sebastian.
